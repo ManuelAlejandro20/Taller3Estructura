@@ -16,7 +16,6 @@ public:
 	Pokemon* buscarPokemonNombre(string nombre); //buscar poke por nombre
 	void desplegarArbol(bool desplegarSoloCapturados); //despliega los pokes en orden, recibe true si se quiere imprimir solo los capturados o recibe false para imprimir todos los pokes 
 	int getCantTotal();
-	/*void imprimir(int i);*///recibe un 0 o un 1 dependiendo si quieres desplegar solo las claves o solo los nombres de los pokes, igual solo sirve para probar el arbol no va en el taller final
 	~ArbolB();
 
 private:
@@ -29,9 +28,6 @@ private:
 	NodoB* buscarNodoAnterior(NodoB * nodo, NodoB * nodo_original);
 	void agregarDato(NodoB* nodo, Pokemon* pokemon);
 	void llenarPoke(vector<Pokemon*> &vec, NodoB* nodo);
-	/*void imprimirArbol(NodoB * nodo); */        //Metodos para probar si todo se inserto bien dentro del arbol
-	/*void imprimirArbolNombre(NodoB * nodo);*/	//eliminar antes de enviar el taller	
-	
 	
 	int m;
 	NodoB* raiz;
