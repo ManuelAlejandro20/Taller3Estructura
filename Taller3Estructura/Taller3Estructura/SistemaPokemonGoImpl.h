@@ -32,7 +32,6 @@ public:
 
 private:
 
-	// ArbolABB* mochila;
 	ArbolB* pokedex;
 
 	int cantPokemonRegistrados; // Indica cuantos pokemon se han registrado en la pokedex
