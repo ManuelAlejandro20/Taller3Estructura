@@ -1,0 +1,151 @@
+001,Bulbasaur,Latigo Cepa,0.2
+002,Ivysaur,Hoja Afilada,0.2
+003,Venusaur,Rayo Solar,0.2
+004,Charmander,Ascuas,0.2
+005,Charmeleon,Garra Metal,0.2
+006,Charizard,Lanzallamas,0.2
+007,Squirtle,Burbuja,0.2
+008,Wartortle,Rayo Burbuja,0.2
+009,Blastoise,Hidrobomba,0.2
+010,Caterpie,Disp. Demora,0.6
+011,Metapod,Fortaleza,0.6
+012,Butterfree,Psicorrayo,0.2
+013,Weedle,Picotazo Ven.,0.6
+014,Kakuna,Fortaleza,0.4
+015,Beedrill,Aguijon Letal,0.2
+016,Pidgey,Tornado,0.6
+017,Pidgeotto,Ataque Ala,0.4
+018,Pidgeot,Vendaval,0.2
+019,Rattata,Ataque Rapido,0.6
+020,Raticate,Hiper Colmillo,0.5
+021,Spearow,Picotazo,0.6
+022,Fearow,Pico Taladro,0.4
+023,Ekans,Constriccion,0.6
+024,Arbok,Chirrido,0.4
+025,Pikachu,Impactrueno,0.5
+026,Raichu,Trueno,0.3
+027,Sandshdrew,Ataque Arena,0.6
+028,Sandslash,Cuchillada,0.4
+029,NidoranF,Picotazo Venenoso,0.6
+030,Nidorina,Doble Patada,0.4
+031,Nidoqueen,Golpe Cuerpo,0.2
+032,NidoranM,Cornada,0.6
+033,Nidorino,Doble Patada,0.4
+034,Nidoking,Golpe,0.2
+035,Clefairy,Luz Lunar,0.5
+036,Clefable,Fuerza Lunar,0.1
+037,Vulpix,Fuego Fatuo,0.5
+038,Ninetales,Infierno,0.3
+039,Jigglypuff,Canto,0.3
+040,Wigglytuff,Doble Bofeton,0.3
+041,Zubat,Supersonico,0.6
+042,Golbat,Mordisco,0.4
+043,Oddish,Absorber,0.6
+044,Gloom,Mega Agotar,0.4
+045,Vileplume,Tormenta Floral,0.6
+046,Paras,Chupa Vidas,0.5
+047,Parasect,Espora,0.3
+048,Venonat,Confusion,0.5
+049,Venomoth,Zumbido,0.3
+050,Diglett,Escavar,0.6
+051,Dugtrio,Terremoto,0.3
+052,Meowth,Dia de Pago,0.6
+053,Persian,Buena Baza,0.4
+054,Psyduck,Hidropulso,0.5
+055,Golduck,Surf,0.3
+056,Mankey,Patada Baja,0.5
+057,Primeape,Furia,0.3
+058,Growlithe,Rugido,0.5
+059,Arcanine,Velocidad Extrema,0.3
+060,Poliwag,Pistola Agua,0.6
+061,Poliwhirl,Hipnosis,0.4
+062,Poliwrath,Llave Giro,0.2
+063,Abra,Teletransportacion,0.6
+064,Kadabra,Premonicion,0.4
+065,Alakazam,Psiquico,0.3
+066,Machop,Golpe Karate,0.5
+067,Machoke,Tiro Vital,0.4
+068,Machamp,Sumision,0.2
+069,Bellsprout,Latigo Cepa,0.6
+070,Weepinbell,Dulce Aroma,0.4
+071,Victreebel,Lluevehojas,0.2
+072,Tentacool,Acido,0.5
+073,Tentacruel,Onda Toxica,0.3
+074,Geodude,Lanzarrocas,0.6
+075,Graveler,Avalancha,0.4
+076,Golem,Roca Afilada,0.2
+077,Ponyta,Pisoton,0.5
+078,Rapidash,Rueda Fuego,0.3
+079,Slowpoke,Confusion,0.5
+080,Slowbro,Amnesia,0.3
+081,Magnemite,Bomba Sonica,0.5
+082,Magneton,Bomba Iman,0.3
+083,Farfetch'd,Tajo Aereo,0.2
+084,Doduo,Doble Golpe,0.5
+085,Dodrio,Triataque,0.2
+086,Seel,Golpe Cabeza,0.5
+087,Dewgong,Rayo Aurora,0.3
+088,Grimer,Residuos,0.5
+089,Muk,Lanza Mugre,0.3
+090,Shellder,Refugio,0.5
+091,Cloyster,Chuzos,0.3
+092,Gastly,Lenguetazo,0.5
+093,Haunter,Tinieblas,0.4
+094,Gengar,Bola Sombra,0.2
+095,Onix,Torm. Arena,0.2
+096,Drowzee,Golpe Cabeza,0.5
+097,Hypno,Cabezazo Zen,0.3
+098,Krabby,Salmuera,0.6
+099,Kingler,Martillazo,0.3
+100,Voltrob,Autodestruccion,0.5
+101,Electrode,Explosion,0.3
+102,Exeggcute,Recurrente ,0.4
+103,Exeggclutor,Bomba Huevo,0.2
+104,Cubone,Hueso Palo,0.5
+105,Marowak,Huesomerang,0.3
+106,Hitmonlee,Patada Salto Alta,0.2
+107,Hitmonchan,Gancho Alto,0.2
+108,Lickitung,Lenguetazo,0.2
+109,Koffing, Gas Venenoso,0.5
+110,Weezing,Eructo,0.3
+111,Rhyhorn,Cornada,0.4
+112,Rhydon,Avalancha,0.3
+113,Chansey,Amortiguador,0.1
+114,Tangela,Latizago,0.2
+115,Kangaskhan,Inversion,0.2
+116,Horsea,Burbuja,0.6
+117,Seadra,Rayo Burbuja,0.3
+118,Goldeen,Cornada,0.6
+119,Seaking,Cascada,0.3
+120,Staryu,Rapidez,0.6
+121,Starmie,Recuperacion,0.3
+122,Mr.Mime,Barrera,0.2
+123,Scyther,Danza Espada,0.2
+124,Jynx,Beso Amoroso,0.2
+125,Electabuzz,Bola Voltio,0.2
+126,Magmar,Humareda,0.2
+127,Pinsir,Guillotina,0.2
+128,Tauros,Derribo,0.2
+129,Magikarp,Salpicadura,0.6
+130,Gyarados,Furia Dragon,0.2
+131,Lapras,Surf,0.2
+132,Ditto,Transform.,0.1
+133,Eevee,Ultima Baza,0.2
+134,Vaporeon,Acua Aro,0.2
+135,Jolteon,Trueno,0.2
+136,Flareon,Giro Fuego,0.2
+137,Porygon,Conversion,0.2
+138,Omanyte,Desenrollar,0.2
+139,Omastar,Poder Pasado,0.2
+140,Kabuto,Mega Agotar,0.2
+141,Kabutops,Cuchillada,0.2
+142,Aerodactyl,Hiperrayo,0.2
+143,Snorlax,Descanso,0.1
+144,Articuno,Rayo Hielo,0.001
+145,Zapdos,Rayo,0.001
+146,Moltres,Lanzallamas,0.001
+147,Dratini,Ciclon,0.2
+148,Dragonair,Furia Dragon,0.2
+149,Dragonite,Carga Dragon,0.2
+150,Mewtwo,Onda Mental,0.001
+151,Mew,Psiquico,0.2

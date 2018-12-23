@@ -1,0 +1,30 @@
+﻿  ArbolB.cpp
+c:\users\aleja\desktop\taller3estructura\taller3estructura\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(22): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(62): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(136): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(142): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(171): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(178): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(191): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(194): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(205): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(218): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(223): warning C4018: '<': no coinciden signed/unsigned
+  Menu.cpp
+c:\users\aleja\desktop\taller3estructura\taller3estructura\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+  NodoB.cpp
+c:\users\aleja\desktop\taller3estructura\taller3estructura\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\nodob.cpp(23): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\nodob.cpp(34): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\nodob.cpp(44): warning C4018: '<': no coinciden signed/unsigned
+  Pokemon.cpp
+c:\users\aleja\desktop\taller3estructura\taller3estructura\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+  SistemaPokemonGoImpl.cpp
+c:\users\aleja\desktop\taller3estructura\taller3estructura\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\taller3estructura\taller3estructura\sistemapokemongoimpl.cpp(133): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Taller3Estructura.cpp
+c:\users\aleja\desktop\taller3estructura\taller3estructura\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+c:\users\aleja\desktop\taller3estructura\taller3estructura\arbolb.cpp(28): warning C4715: 'ArbolB::buscarNodoAgregacion': no todas las rutas de acceso de control devuelven un valor
+  Taller3Estructura.vcxproj -> C:\Users\aleja\Desktop\Taller3Estructura\Debug\Taller3Estructura.exe
