@@ -14,18 +14,14 @@ class Menu
 public:
 
 	Menu();
-
 	void LeerPokedex();
-
 	void MenuPrincipal();
-
 	void SubMenuBuscarPokemon();
 	void SubMenuMochila();
 	void SubMenuPokedex();
-
 	void Salir();
-
 	~Menu();
+	
 private:
 
 	SistemaPokemonGoImpl sistema;
