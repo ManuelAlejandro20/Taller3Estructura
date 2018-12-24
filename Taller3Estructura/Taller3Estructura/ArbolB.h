@@ -13,8 +13,8 @@ public:
 	Pokemon* pokemonAleatorio();
 	Pokemon* buscarPokemonID(int ID); // buscar poke por ID
 	Pokemon* buscarPokemonNombre(string nombre); //buscar poke por nombre
-	void desplegarArbol(bool desplegarSoloCapturados); //despliega los pokes en orden, recibe true si se quiere imprimir solo los capturados o recibe false para imprimir todos los pokes 
-	int getCantTotal();
+	void desplegarArbol(bool desplegarSoloCapturados); //despliega los pokes en orden, recibe true si se quiere 
+	int getCantTotal();				//imprimir solo los capturados o recibe false para imprimir todos los pokemon 
 	~ArbolB();
 
 private:
