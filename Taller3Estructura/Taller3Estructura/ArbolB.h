@@ -11,7 +11,6 @@ public:
 	ArbolB(int m);
 	void agregarDato(Pokemon* pokemon);
 	Pokemon* pokemonAleatorio();
-	Pokemon * pokemonAleatorio(NodoB* nodob, int &num);
 	Pokemon* buscarPokemonID(int ID); // buscar poke por ID
 	Pokemon* buscarPokemonNombre(string nombre); //buscar poke por nombre
 	void desplegarArbol(bool desplegarSoloCapturados); //despliega los pokes en orden, recibe true si se quiere imprimir solo los capturados o recibe false para imprimir todos los pokes 
@@ -24,6 +23,7 @@ private:
 	Pokemon* buscarPokemonID(int ID, NodoB* nodo);
 	Pokemon* buscarPokemonNombre(string nombre, NodoB*nodo);
 	bool isOverflow(NodoB* nodo);
+	Pokemon * pokemonAleatorio(NodoB* nodob, int &num);
 	NodoB* buscarNodoAgregacion(NodoB* nodo, Pokemon* pokemon);
 	NodoB* buscarNodoAnterior(NodoB * nodo, NodoB * nodo_original);
 	void agregarDato(NodoB* nodo, Pokemon* pokemon);
